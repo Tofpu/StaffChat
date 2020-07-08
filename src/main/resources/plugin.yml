@@ -1,0 +1,17 @@
+name: StaffChat
+version: 1.5
+main: me.tofpu.caterwak.staffchat.StaffChat
+api-version: 1.13
+authors: [Tofpu]
+description: Staff Chat
+softdepend: [PlaceholderAPI]
+commands:
+  staffchat:
+  sc:
+  msc:
+#  astaffchat:
+#  asc:
+#  staffchattoggle:
+#  sctoggle:
+#  wstaffchat:
+#  wsc:
